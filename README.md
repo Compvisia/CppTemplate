@@ -1,2 +1,0 @@
-# CppTemplate
-A C++ Template.
